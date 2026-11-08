@@ -1,19 +1,33 @@
 <div align="center">
-  <h1>Rollins Bright Wonder</h1>
-  <p><strong>Kenya · skymarble technologies</strong></p>
-  <p>A home for my projects, experiments, and ideas in progress.</p>
+
+# Rollins Bright Wonder
+
+### Engineering power. Building the web.
+
+Electrical engineering student · web development · digital products
+
+Kenya · skymarble technologies
+
+[Explore my portfolio](https://github.com/CsHift1/Rollins-Bright-Wonder)
+
 </div>
 
 ---
 
-### A few things I’ve built
+## What I'm learning and building
+
+- **Electrical engineering** — power systems, circuits, machines, and measurement.
+- **Web development** — responsive websites and digital products.
+- **Programming and security** — Python, Linux, and cybersecurity fundamentals.
+
+## Selected work
 
 | Project | What it is |
 | --- | --- |
-| [Jaza](https://github.com/CsHift1/jaza) | A frontend prototype for solving problems with AI and human experts. |
-| [Portfolio](https://github.com/CsHift1/Rollins-Bright-Wonder) | My personal portfolio. |
-| [CSV Folder Watcher](https://github.com/CsHift1/csv-folder-watcher) | A Python project for watching folders containing CSV files. |
+| [Jaza](https://github.com/CsHift1/jaza) | A mobile-first prototype for finding help with everyday problems through AI, human experts, or local support. |
+| [CSV Folder Watcher](https://github.com/CsHift1/csv-folder-watcher) | A Python utility that watches for CSV files and converts them into readable JSON. |
+| [Portfolio](https://github.com/CsHift1/Rollins-Bright-Wonder) | A home for my engineering studies, web work, and projects in progress. |
 
-### Around here
+---
 
-I’m based in Kenya. This profile is where I share the projects I’m working on and the ideas I’m exploring.
+*Learning the fundamentals. Practising by building. Sharing what works.*
