@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Rollins Bright Wonder</h1>
   <p><strong>Kenya · skymarble technologies</strong></p>
-  <p>A home for my projects, experiments, and ideas in progress.</p>
+  <p>A home for my projects, experiments, and ideas in progress.Feel free to interact with me on all my socials @thisisrollinswonder</p>
 </div>
 
 ---
