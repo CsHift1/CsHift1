@@ -19,7 +19,7 @@ Building technology. Engineering solutions. Turning ideas into reality.
 
 ## ABOUT
 
-I'm Rollins Bright Wonder, a developer and electrical engineering enthusiast from Kenya, passionate about technology, innovation, and solving real-world problems.
+I'm Rollins Bright Wonder, a developer and electrical engineering enthusiast from Kenya, passionate about technology, innovation, and solving real-world problems. Also embarking  on drone and robotics development to help yield more agricultural products cheaply in Africa and beyond .
 
 My interests span software development, programming, electrical and electronic systems, and cybersecurity.
 
